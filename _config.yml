@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Reza Rahimi / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "pppersonal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Reza Rahimi"
-  avatar           : "profile pic.png"
+  avatar           : "profile.png"
   bio              : "Hello, I'm a software engineer with a strong background in Math and MATLAB, C, C++, Python, Java, and LATEX. I have experience in developing complex algorithms."
   location         : "Location"
   employer         :
