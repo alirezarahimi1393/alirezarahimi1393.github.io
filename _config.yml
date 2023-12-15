@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Reza Rahimi"
 title_separator          : "-"
 name                     : &name "Ali Reza Rahimi"
-description              : &description "pppersonal description"
+description              : &description "personal description"
 url                      : https://alirezarahimi1393.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alirezarahimi1393/alirezarahimi1393.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "alirezarahimi1393"
   google_plus      :
   keybase          :
   instagram        :
