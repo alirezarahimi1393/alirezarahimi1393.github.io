@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "News"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,17 +8,33 @@ redirect_from:
 ---
 
 
-## Definition Lists
+## List
 
-Definition List Title
-:   Definition list division.
+Our papers
+:   Explore Our Research Journey: [papers](https://alirezarahimi1393.github.io/publications/) Ready for Submission!.
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+Graduation
+:   Breaking News: Celebrating the Milestone - Graduation Day!.
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+IELTS
+:   Mastering IELTS: Secured a Strong Band Score of 7!.
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+Scholarship Award
+:   Proud Moment: Awarded [DAFI Tertiary Scholarship Programme](https://www.unhcr.org/what-we-do/build-better-futures/education/tertiary-education/dafi-tertiary-scholarship-programme) for Academic Excellence!.
 
+Internship Accomplished
+:   Internship Achievement: Successfully Concluded Bioinformatics Internship at [Shahid Bahonar University of Kerman](https://en.wikipedia.org/wiki/Shahid_Bahonar_University_of_Kerman)!
+
+ICDL Course Instructorship
+:   Equipping Learners with Essential Skills!
+
+Achievement:
+    Received Highest CGPA in Computer Engineering Department: Recognized for Exceptional Academic Performance."
+
+Volunteer Work:
+
+    "Engaged in Community Outreach: Conducted Tech Workshops for Underprivileged Students."
+
+Certification Pursuit:
+
+    "In Pursuit of GRE Certification: Preparing for Advanced Academic Opportunities."
