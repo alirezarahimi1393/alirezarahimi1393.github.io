@@ -28,13 +28,11 @@ Internship Accomplished
 ICDL Course Instructorship
 :   Equipping Learners with Essential Skills!
 
-Achievement:
-    Received Highest CGPA in Computer Engineering Department: Recognized for Exceptional Academic Performance."
+Achievement
+:   Received Highest CGPA in Computer Engineering Department: Recognized for Exceptional Academic Performance.
 
-Volunteer Work:
+Volunteer Work
+:   Engaged in Community Outreach: Conducted Tech Workshops for Underprivileged Students.
 
-    "Engaged in Community Outreach: Conducted Tech Workshops for Underprivileged Students."
-
-Certification Pursuit:
-
-    "In Pursuit of GRE Certification: Preparing for Advanced Academic Opportunities."
+Certification Pursuit
+:   In Pursuit of GRE Certification: Preparing for Advanced Academic Opportunities.
