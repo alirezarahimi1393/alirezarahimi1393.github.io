@@ -54,8 +54,54 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
+
+Teaching Experience 📚
+------
+
+Teaching Assistant (Dept. of Computer and IT, Islamic Azad University)
+Collaborated with Professor S. Shadravan to redesign the flowchart for bachelor students in the computer science department. Also, managed and advised students in the Special Topics course.
+
+Undergraduate Mentor (Dept. of Computer and IT, Islamic Azad University)
+Provided guidance and assistance to fresh students, ensuring a smooth transition into university life.
+
+ICDL Instructor (Bardsir Settlement, Kerman, Iran)
+Introduced Afghan refugees to the world of computers, equipping them with practical skills for today's world.
+Technical Skills 💻
+
+    Programming Skills: MATLAB, C, C++, Python, Java, LATEX
+    Mathematical Packages: Engineering Probability and Statistics, GAMS
+    Computer-aided Design/Engineering: MySQL, Photoshop
+    Other Skills: Linux OS, Windows OS, WordPress
+
+University Service 🎓
+------
+
+Student Assistant (Dept. of Computer and IT, Islamic Azad University)
+Assisted incoming computer students, providing guidance and administrative support.
+
+Student Worker (Office of Public Communications, Islamic Azad University)
+Managed operations of the internet center, offering guidance to incoming students.
+Languages 🌐
+
+    English: IELTS (L:8, R:7.5, W:6, S:6, BandScore: 7)
+    GRE-General: Preparing for the upcoming test.
+
+References 📞
+------
+    Amid Khatibi Bardsiri, Assistant Professor at Islamic Azad University, Bardsir Branch
+    Email: A.khatibi@srbiau.ac.ir
+
+    Soodeh Shadravan, Assistant Professor and Head of Department of Computer and IT at Islamic Azad University, Bardsir Branch
+    Email: Shadravan@bardsiriau.ac.ir
+
+    Zahra Naderi, Assistant Professor at Islamic Azad University, Bardsir Branch
+    Email: Zahranaderidehnavi@bardsiriau.ac.ir
+
+    Vahid Khatibi Bardsiri, Assistant Professor at Islamic Azad University, Kerman Branch
+    Email: Kvahid2@live.utm.my
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+📜[Need more info? VISIT MY CV](https://alirezarahimi1393.github.io/files/Resume.pdf)
