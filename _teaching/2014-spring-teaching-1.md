@@ -2,14 +2,14 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/Teaching Assistant
+venue: "Islamic Azad University, Department of Computer and IT"
 date: 2023-03-01
 location: "Bardsir, Iran"
 ---
-Department of Computer and IT, Islamic Azad University
-:       Cooperated with Professor S. Shadravan to redesign the flowchart of bachelor students of the computer
-science department.
 
-        Special Topics 1 January 2021
-Managed and advised students to ensure they learned the material and stayed on the path
+Redesigning the Flowchart
+:    Collaborated with Professor S. Shadravan to enhance the visual representation of the computer science department's bachelor students' flowchart, optimizing its clarity and coherence to aid student navigation through the curriculum.
+
+Guidance in Special Topics
+:    Provided guidance and mentorship to students enrolled in the Special Topics course, ensuring their comprehensive understanding of the material. Offered support to keep students aligned with the course objectives and their academic trajectory.
