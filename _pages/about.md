@@ -70,10 +70,10 @@ ICDL Instructor (Bardsir Settlement, Kerman, Iran)
 Introduced Afghan refugees to the world of computers, equipping them with practical skills for today's world.
 Technical Skills 💻
 
-    Programming Skills: MATLAB, C, C++, Python, Java, LATEX
-    Mathematical Packages: Engineering Probability and Statistics, GAMS
-    Computer-aided Design/Engineering: MySQL, Photoshop
-    Other Skills: Linux OS, Windows OS, WordPress
+Programming Skills: MATLAB, C, C++, Python, Java, LATEX
+Mathematical Packages: Engineering Probability and Statistics, GAMS
+Computer-aided Design/Engineering: MySQL, Photoshop
+Other Skills: Linux OS, Windows OS, WordPress
 
 University Service 🎓
 ------
@@ -85,22 +85,22 @@ Student Worker (Office of Public Communications, Islamic Azad University)
 Managed operations of the internet center, offering guidance to incoming students.
 Languages 🌐
 
-    English: IELTS (L:8, R:7.5, W:6, S:6, BandScore: 7)
-    GRE-General: Preparing for the upcoming test.
+English: IELTS (L:8, R:7.5, W:6, S:6, BandScore: 7)
+GRE-General: Preparing for the upcoming test.
 
 References 📞
 ------
-    Amid Khatibi Bardsiri, Assistant Professor at Islamic Azad University, Bardsir Branch
-    Email: A.khatibi@srbiau.ac.ir
+Amid Khatibi Bardsiri, Assistant Professor at Islamic Azad University, Bardsir Branch
+Email: A.khatibi@srbiau.ac.ir
 
-    Soodeh Shadravan, Assistant Professor and Head of Department of Computer and IT at Islamic Azad University, Bardsir Branch
-    Email: Shadravan@bardsiriau.ac.ir
+Soodeh Shadravan, Assistant Professor and Head of Department of Computer and IT at Islamic Azad University, Bardsir Branch
+Email: Shadravan@bardsiriau.ac.ir
 
-    Zahra Naderi, Assistant Professor at Islamic Azad University, Bardsir Branch
-    Email: Zahranaderidehnavi@bardsiriau.ac.ir
+Zahra Naderi, Assistant Professor at Islamic Azad University, Bardsir Branch
+Email: Zahranaderidehnavi@bardsiriau.ac.ir
 
-    Vahid Khatibi Bardsiri, Assistant Professor at Islamic Azad University, Kerman Branch
-    Email: Kvahid2@live.utm.my
+Vahid Khatibi Bardsiri, Assistant Professor at Islamic Azad University, Kerman Branch
+Email: Kvahid2@live.utm.my
 
 For more info
 ------
