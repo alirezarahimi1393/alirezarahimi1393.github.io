@@ -1,12 +1,12 @@
 ---
-title: "Undergraduate Mentor 2020 – Present"
+title: "Undergraduate Mentor"
 collection: teaching
-type: "Workshop"
+type: "Orientation and Guidance"
 permalink: /teaching/Undergraduate_Mentor
-venue: "University 1, Department"
+venue: "Islamic Azad University, Department of Computer and IT"
 date: 2020-05-01
 location: "Bardsir, Iran"
 ---
 
-Department of Computer and IT, Islamic Azad University
+Orientation and Guidance
 :   Guided and provided initial guidance and helped fresh students with information on processes
