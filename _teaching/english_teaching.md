@@ -6,7 +6,6 @@ permalink: /teaching/English_Educator
 venue: "Bardsir Refugee Resettlement, Kerman, Iran"
 date: 2023-05-01
 location: "Bardsir, Iran"
-<img src='/images/english_class.png'
 ---
 
 
