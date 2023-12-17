@@ -3,20 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
+  - title: "CV"
+    url: /files/Resume.pdf
+  
+  - title: "Work in Progess"
+    url: /portfolio/
+  
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Resume.pdf
+
+  - title: "Talks"
+    url: /talks/    
+  
+
     
   - title: "News"
     url: /markdown/
