@@ -4,5 +4,16 @@ excerpt: "Developing machine learning models to identify potential drug candidat
 collection: Projects
 ---
 
+Project Title: Exploring Drug Repositioning for Rare Diseases
 
-Duration: November 2023 - Present
+Objective
+:   Identifying potential drug candidates for rare diseases through advanced data analysis.
+
+Approach
+:   using machine learning to the analysis of various biological data (genes, proteins, metabolites) to identify medications that can target the underlying causes of rare diseases.
+
+Duration
+:   November 2023 - Present
+
+Significance
+:    seeking to repurpose current medications for use in treating uncommon diseases—a field that pharmaceutical corporations usually avoid due to its low profit margin.
