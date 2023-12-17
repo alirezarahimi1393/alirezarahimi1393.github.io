@@ -17,3 +17,7 @@ Duration
 
 Significance
 :    seeking to repurpose current medications for use in treating uncommon diseases—a field that pharmaceutical corporations usually avoid due to its low profit margin.
+
+
+New to this field
+:   [Review of Drug Repositioning Approaches and Resources](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6097480/)
