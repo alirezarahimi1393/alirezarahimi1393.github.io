@@ -4,7 +4,6 @@ excerpt: "Developing machine learning models to identify potential drug candidat
 collection: Projects
 ---
 
-Project Title: Exploring Drug Repositioning for Rare Diseases
 
 Objective
 :   Identifying potential drug candidates for rare diseases through advanced data analysis.
