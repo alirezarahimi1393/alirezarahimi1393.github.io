@@ -10,6 +10,13 @@ redirect_from:
 
 ## List
 
+**🌟 Continued Academic Pursuits:** Continuing our stride towards academic excellence, we're thrilled to share our latest milestone!
+Keep shining bright!
+
+
+Paper Submission Update
+:   Exciting news as we've submitted two groundbreaking papers to the prestigious [ICREDG 2024 conference](https://icredg2024.yazd.ac.ir/). Stay tuned for further updates on our research journey!
+
 Our papers
 :   Explore Our Research Journey: [papers](https://alirezarahimi1393.github.io/publications/) Ready for Submission!.
 
