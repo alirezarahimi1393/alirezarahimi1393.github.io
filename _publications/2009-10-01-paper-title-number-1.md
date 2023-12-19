@@ -5,9 +5,10 @@ permalink: /publication/2023ـFlexibilityـAssessment
 excerpt: 'Submitted to: ICREDG2024'
 date: 2023-06-01
 venue: '....'
-paperurl: 'soon'
+paperurl: 'Submitted'
 citation: 'Your Name, You. (2023). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
 
 The paper has been submmited to
 :[ The 11th Iranian Conference on Renewable Energies & Distributed Generation](https://icredg2024.yazd.ac.ir/Home)
@@ -22,4 +23,3 @@ Poster
 ![Image Alt Text](/images/500x300.png)
 
 
-Recommended citation: Your Name, You. (2023). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
