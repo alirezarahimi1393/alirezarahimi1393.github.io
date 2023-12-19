@@ -2,7 +2,7 @@
 title: "Flexible Microgrid Scheduling with the Presence of Renewable Energy Resources"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Will be submitted soon...'
+excerpt: 'Submitted to: ICREDG2024'
 date: 2023-10-01
 venue: '.... '
 paperurl: 'Submitted'
