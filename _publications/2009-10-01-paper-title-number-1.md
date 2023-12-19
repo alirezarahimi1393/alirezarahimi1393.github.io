@@ -10,7 +10,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 
 The paper has been submmited to
-:The 11th Iranian Conference on Renewable Energies & [Distributed Generation](https://icredg2024.yazd.ac.ir/Home)
+:[ The 11th Iranian Conference on Renewable Energies & Distributed Generation](https://icredg2024.yazd.ac.ir/Home)
 
 ![Image Alt Text](/images/ICREDG_header.png)
 
